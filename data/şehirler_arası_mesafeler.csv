@@ -1,0 +1,5 @@
+şehir,magaza1,magaza2,magaza3,magaza4
+magaza1,0,10,12,15
+magaza2,10,0,8,9
+magaza3,12,8,0,7
+magaza4,15,9,7,0

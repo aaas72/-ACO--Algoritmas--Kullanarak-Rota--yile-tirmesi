@@ -1,0 +1,4 @@
+sipariş_id, müşteri_adi, teslimat_adresi, teslimat_zamani
+1, John Doe, 123 Elm St, 2025-04-30 14:00
+2, Jane Smith, 456 Oak St, 2025-04-30 16:00
+3, Tom Brown, 789 Pine St, 2025-04-30 15:00
