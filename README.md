@@ -1,4 +1,4 @@
-## (ACO)-Algoritması-Kullanarak-Rota-İyileştirmesi
+## ACO (Ant Colony Optimization)
 
 Bu proje, teslimat ve lojistik sektöründe kullanılabilecek bir **Karınca Kolonisi Optimizasyonu (ACO) algoritması** ile rotaların iyileştirilmesini hedeflemektedir. Algoritma, şehirler veya dağıtım noktaları arasındaki en kısa ve en verimli yolları bulmak için Karınca Kolonisi Optimizasyonu (ACO) metodunu kullanır.
 
